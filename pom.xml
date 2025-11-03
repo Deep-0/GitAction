@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>GitAction</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>GitAction</name>
 	<description>Ci Cd Pipeline</description>
 	<url/>
